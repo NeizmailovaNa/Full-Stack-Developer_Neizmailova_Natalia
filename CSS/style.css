@@ -17,15 +17,13 @@ a {
     height: 2403px;
     /*background-color: #fff2f2;*/
     background-color: rgb(255, 255, 255);
-    margin-left: auto;
-    margin-right: auto;
-
 }
 
 /*Main content*/
 
 .main-content__section{
     padding: 40px 60px;
+    width: 1160px;
 }
 
 .main-content__title{
@@ -201,6 +199,7 @@ a {
 /* sidebar section*/
 .sidebar{
     background-color: #b5c7e2;
+    width: 420px;
 }
 
 .my-photo__wraper {
