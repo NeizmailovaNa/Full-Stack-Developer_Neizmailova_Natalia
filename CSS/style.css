@@ -6,8 +6,8 @@
 .main-container{
     display: flex;
     flex-direction: row-reverse;
-    width: 1815px;
-    height: 2545px;
+    width: 1700px;
+    height: 2300px;
     background-color: rgb(255, 255, 255);
     margin: 40px auto;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
