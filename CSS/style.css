@@ -198,6 +198,7 @@ a {
 /* sidebar section*/
 .sidebar{
     background-color: #b5c7e2;
+    width: 390px;
 }
 
 .my-photo__wraper {
