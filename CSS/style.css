@@ -72,18 +72,18 @@ a {
 }
 
 .my-projects__item{
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 40px;
+    line-height: 44px;
     font-weight: bold;
     color: #000000;
+    margin-bottom: 20px;
 }
 
 .my-projects__name,
 .my-projects__description {
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
-    
+    font-size: 40px;
+    line-height: 44px;
     margin-left: 5px;
 }
 
@@ -99,12 +99,11 @@ a {
 
 .my-projects__link{
     font-style: normal;
-    font-weight: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 42px;
     color: #1e3cd1;
     text-decoration: none;
-    margin-bottom: 7px;
 }
 
 
@@ -295,15 +294,15 @@ a {
 
 .tech-skills__item{
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 42px;
     color: #0c00f1;
 }
 
 .tech-skills__text{
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 42px;
     color: #000000;
 }
 
@@ -318,15 +317,15 @@ a {
 
 .soft-skills__item{
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 42px;
     color: #0c00f1;
 }
 
 .soft-skills__text{
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 42px;
     color: #000000;
 }
 
@@ -341,14 +340,15 @@ a {
 
 .languages__item{
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 42px;
     color: #0c00f1;
 }
 
 .languages__text{
     font-style: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 42px;
     color: #000000;
 }
