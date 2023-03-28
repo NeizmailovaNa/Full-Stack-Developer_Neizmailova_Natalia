@@ -22,15 +22,15 @@ a {
 /*Main content*/
 
 .main-content__section{
-    padding: 75px 60px;
+    padding: 35px 60px;
     width: 1160px;
 }
 
 .main-content__title{
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 46px;
+    font-size: 46px;
+    line-height: 48px;
     color: #000000;
     margin-bottom: 20px;
 }
@@ -60,8 +60,8 @@ a {
 .about-me__description{
     font-style: normal;
     font-weight: normal;
-    font-size: 38px;
-    line-height: 42px;
+    font-size: 36px;
+    line-height: 40px;
     color: #595959;
     margin-bottom: 30px;
 }
@@ -72,36 +72,37 @@ a {
 }
 
 .my-projects__item{
-    font-size: 40px;
-    line-height: 44px;
+    font-size: 46px;
+    line-height: 48px;
     font-weight: bold;
     color: #000000;
     margin-bottom: 30px;
 }
 
-.my-projects__name,
-.my-projects__description {
-    font-style: normal;
-    font-size: 40px;
-    line-height: 44px;
-    margin-left: 5px;
+.my-projects {
+    display: grid;
 }
 
 .my-projects__name {
+    font-size: 46px;
+    line-height: 48px;
     font-weight: bold;
     color: #000000;
+    text-decoration: none;
 }
 
 .my-projects__description {
     font-weight: normal;
+    font-size: 36px;
+    line-height: 40px;
     color: #595959;
 }
 
 .my-projects__link{
     font-style: normal;
     font-weight: bold;
-    font-size: 38px;
-    line-height: 42px;
+    font-size: 46px;
+    line-height: 48px;
     color: #1e3cd1;
     text-decoration: none;
 }
@@ -111,8 +112,8 @@ a {
 .my-work-experience__position{
     font-style: normal;
     font-weight: bold;
-    font-size: 38px;
-    line-height: 40px;
+    font-size: 46px;
+    line-height: 48px;
     color: #000000;
     margin:0 0 5px 0;
 }
@@ -121,15 +122,15 @@ a {
     color: #1e3cd1;
     font-style: normal;
     font-weight: bold;
-    font-size: 38px;
-    line-height: 40px;
+    font-size: 46px;
+    line-height: 48px;
 }
 
 .my-work-experience__time{
     font-style: normal;
     font-weight: normal;
-    font-size: 34px;
-    line-height: 38px;
+    font-size: 46px;
+    line-height: 48px;
     color: #8d97cf;
     margin: 0 0 5px 0;
 }
@@ -141,8 +142,8 @@ a {
 .my-work-experience__duty{
     font-style: normal;
     font-weight: normal;
-    font-size: 32px;
-    line-height: 36px;
+    font-size: 36px;
+    line-height: 40px;
     color: #595959;
 }
 
@@ -162,35 +163,35 @@ a {
 .my-education__title{
     font-style: normal;
     font-weight: bold;
-    font-size: 48px;
-    line-height: 46px;
+    font-size: 46px;
+    line-height: 48px;
     color: #000000;
     margin: 0 0 10px 0;
 }
 
 .my-education__company{
-    color: #1e3cd1;
+    color: #000000;
     font-style: normal;
     font-weight: bold;
-    font-size: 38px;
-    line-height: 40px;
+    font-size: 46px;
+    line-height: 48px;
     margin: 0 0 7px 0;
 }
 
 .my-education__position{
     font-style: normal;
     font-weight: bold;
-    font-size: 36px;
-    line-height: 38px;
-    color: #595959;
+    font-size: 46px;
+    line-height: 48px;
+    color: #1e3cd1;
     margin: 0 0 7px 0;
 }
 
 .my-education__time{
     font-style: normal;
     font-weight: normal;
-    font-size: 34px;
-    line-height: 38px;
+    font-size: 46px;
+    line-height: 48px;
     color: #8d97cf;
     margin: 0 0 15px 0;
 }
@@ -233,8 +234,8 @@ a {
 .side-bar__title{
     font-style: normal;
     font-weight: bold;
-    font-size: 38px;
-    line-height: 40px;
+    font-size: 46px;
+    line-height: 48px;
     color: #030097;
     margin-left: 60px;
 }
@@ -277,8 +278,8 @@ a {
 .contact-section__icon-link{
     font-style: normal;
     font-weight: bold;
-    font-size: 30px;
-    line-height: 32px;
+    font-size: 36px;
+    line-height: 38px;
     color: #000000;
     background: rgb(45,45,45);
     background: linear-gradient(90deg, rgba(45,45,45,1) 0%, rgba(148,155,172,1) 35%, rgba(141,151,207,1) 100%);
@@ -304,15 +305,15 @@ a {
 
 .tech-skills__item{
     font-style: normal;
-    font-size: 36px;
-    line-height: 42px;
+    font-size: 46px;
+    line-height: 48px;
     color: #0c00f1;
 }
 
 .tech-skills__text{
     font-style: normal;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 38px;
     color: #000000;
 }
 
@@ -327,15 +328,15 @@ a {
 
 .soft-skills__item{
     font-style: normal;
-    font-size: 36px;
-    line-height: 42px;
+    font-size: 46px;
+    line-height: 48px;
     color: #0c00f1;
 }
 
 .soft-skills__text{
     font-style: normal;
     font-size: 36px;
-    line-height: 42px;
+    line-height: 38px;
     color: #000000;
 }
 
@@ -350,14 +351,14 @@ a {
 
 .languages__item{
     font-style: normal;
-    font-size: 36px;
-    line-height: 42px;
+    font-size: 46px;
+    line-height: 48px;
     color: #0c00f1;
 }
 
 .languages__text{
     font-style: normal;
-    font-size: 34px;
-    line-height: 42px;
+    font-size: 36px;
+    line-height: 38px;
     color: #000000;
 }
